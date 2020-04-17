@@ -3,8 +3,11 @@
 INSTALASI
 
 Import project tugasutsrsbk file ke dalam Eclipse
+
 Jalankan the Payara server / tomcat server
+
 Klik kanan pada project >> Run As >> Run on server
+
 Pada browser ketik: http://localhost:<port_no>/tugasutsrsbk
 
 
